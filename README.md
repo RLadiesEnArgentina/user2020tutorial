@@ -19,7 +19,7 @@ As every R-Ladies event, all participants are required to agree to the [Code of 
 
 ## You can sign up through any of this links:
 
-_Soon!_
+[R-Ladies Buenos Aires](https://www.meetup.com/es-ES/rladies-buenos-aires/events/271926360)
 
 More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorials/
 
@@ -44,4 +44,4 @@ Como en todos los eventos de R-Ladies, las personas que participan deben aceptar
 
 ## Puede registrarse a través de cualquiera de estos enlaces:
 
-_Pronto!_
+[R-Ladies Buenos Aires](https://www.meetup.com/es-ES/rladies-buenos-aires/events/271926360)
