@@ -1,3 +1,4 @@
+![](https://github.com/RLadiesEnArgentina/user2020tutorial/blob/master/2.png)
 # useR! 2020 online tutorial: Predictive modeling with text using tidy data principles.
 
 This [useR! 2020](https://user2020.r-project.org/) online tutorial is coming **Friday, July 24, 2020 at	14:00 UTC** The R-Ladies chapters from Argentina are happy to announce that _Emil Hvitfeldt_ and _Julia Silge_ will be joining us to run their tutorial **"Predictive modeling with text using tidy data principles"**.
