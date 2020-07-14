@@ -10,12 +10,12 @@ This [useR! 2020](https://user2020.r-project.org/) online tutorial is coming **F
 
 Text data is increasingly important in many domains, and tidy modeling principles can be applied to natural language processing tasks. This presentation is designed to provide practical guidance and directly applicable knowledge for data scientists and analysts who want to integrate text into their modeling pipelines.
 
-In this 90-minute tutorial, learn how to preprocess text data for modeling, train models, and evaluate model performance. We will use slides and live coding during the tutorial to walk through a realistic case study. The tutorial will be streamed, recorded and captioned, and there will be supporting materials and code on GitHub for you to work through afterward.
+In this 90-minute tutorial, learn how to preprocess text data for modeling, train models, and evaluate model performance. We will use slides and live coding during the tutorial to walk through a realistic case study. The tutorial will be streamed, recorded, and captioned, and there will be supporting materials and code on GitHub for you to work through afterward.
 
 ## Expected level of audience’s R background:  
 Intermediate familiarity with R, RStudio, basics of regression and classification modeling, and tidyverse packages such as dplyr and ggplot2. 
 
-As every R-Ladies event, all participants are required to agree to the [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct). In adition we also adopt the [useR! 2020 Code of Conduct](https://user2020.r-project.org/codeofconduct/).
+As every R-Ladies event, all participants are required to agree to the [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct). In adition, we also addopt the [useR! 2020 Code of Conduct](https://user2020.r-project.org/codeofconduct/).
 
 ## You can sign up through any of this links:
 
@@ -25,7 +25,7 @@ More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorial
 
 # Tutorial online de useR! 2020: Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy).
 
-Este tutorial de [useR! 2020] (https://user2020.r-project.org/) se realizará de forma vietual el **Viernes 24 de julio de 2020 a las 14:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotros para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
+Este tutorial de [useR! 2020](https://user2020.r-project.org/) se realizará de forma vietual el **Viernes 24 de julio de 2020 a las 14:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotros para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
 
 ## Tutorial
 
