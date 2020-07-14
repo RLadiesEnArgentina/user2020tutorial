@@ -15,6 +15,8 @@ In this 90-minute tutorial, learn how to preprocess text data for modeling, trai
 ## Expected level of audience’s R background:  
 Intermediate familiarity with R, RStudio, basics of regression and classification modeling, and tidyverse packages such as dplyr and ggplot2. 
 
+As every R-Ladies event, all participants are required to agree to the [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct). In adition we also adopt the [useR! 2020 Code of Conduct](https://user2020.r-project.org/codeofconduct/).
+
 ## You can sign up through any of this links:
 
 _Soon!_
@@ -37,6 +39,8 @@ En este tutorial de 90 minutos, aprende a preprocesar datos de texto para modela
 
 ## Nivel esperado de antecedentes R de la audiencia:
 Familiaridad intermedia con R, RStudio, conceptos básicos de modelos de regresión y clasificación y paquetes de tidyverse como dplyr y ggplot2.
+
+Como en todos los eventos de R-Ladies, las personas que participan deben aceptar nuestro [Código de Conducta](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish). Para este evento, además adoptamos el [Código de Conducta de useR! 2020](https://user2020.r-project.org/codeofconduct/).
 
 ## Puede registrarse a través de cualquiera de estos enlaces:
 
