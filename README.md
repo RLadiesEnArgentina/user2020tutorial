@@ -22,22 +22,23 @@ As every R-Ladies event, all participants are required to agree to the [Code of 
 
 * [R-Ladies Buenos Aires](https://www.meetup.com/es-ES/rladies-buenos-aires/events/271926360)
 * [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/271927045/)
+* [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/events/271932849/)
 
 More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorials/
 
 # Tutorial online de useR! 2020: Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy).
 
-Este tutorial de [useR! 2020](https://user2020.r-project.org/) se realizará de forma vietual el **Viernes 24 de julio de 2020 a las 14:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotros para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
+Este tutorial de [useR! 2020](https://user2020.r-project.org/) se realizará de forma virtual el **Viernes 24 de julio de 2020 a las 14:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotres para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
 
 ## Tutorial
 
-- ¿Alguna vez encontraste datos de texto y sospechaste que había información útil en esos datos?, ¿ Te sentiste con frustración al intentan ver cómo encontrar esa información?
+- ¿Alguna vez encontraste datos de texto y sospechaste que había información útil en esos datos?, ¿Te sentiste con frustración al intentar ver cómo encontrar esa información?
 - ¿Estás familiarizade con los conceptos básicos del modelado predictivo y estás liste para aprender cómo se pueden usar los datos de texto no estructurados para la predicción dentro de los ecosistemas tidyverse y tidymodels?
 - ¿Necesitas un marco flexible para manejar datos de texto que te permitan construir modelos predictivos supervisados?
 
-Los datos de texto son cada vez más importantes en muchos dominios, y los principios de tidymodels se pueden aplicar a las tareas de procesamiento del lenguaje natural. Esta presentación está diseñada para proporcionar orientación práctica y conocimiento directamente aplicable para científiques de datos y analistas que desean integrar texto en sus proyectos de modelado.
+Los datos de texto son cada vez más importantes en muchos dominios y los principios de tidymodels se pueden aplicar a las tareas de procesamiento del lenguaje natural. Esta presentación está diseñada para proporcionar orientación práctica y conocimiento directamente aplicable para científiques de datos y analistas que desean integrar texto en sus proyectos de modelado.
 
-En este tutorial de 90 minutos, aprende a preprocesar datos de texto para modelar, entrenar modelos y evaluar el rendimiento del modelo. Usaremos diapositivas y codificación en vivo durante el tutorial para recorrer un estudio de caso realista. El tutorial se transmitirá, grabará y tendrá subtítulos.  También habrá materiales de apoyo y código en GitHub para que puedas trabajar después.
+En este tutorial de 90 minutos aprende a preprocesar datos de texto para modelar, entrenar modelos y evaluar el rendimiento del modelo. Usaremos diapositivas y codificación en vivo durante el tutorial para recorrer un estudio de caso realista. El tutorial se transmitirá, grabará y tendrá subtítulos. También habrá materiales de apoyo y código en GitHub para que puedas trabajar después.
 
 ## Nivel esperado de antecedentes R de la audiencia:
 Familiaridad intermedia con R, RStudio, conceptos básicos de modelos de regresión y clasificación y paquetes de tidyverse como dplyr y ggplot2.
@@ -48,3 +49,5 @@ Como en todos los eventos de R-Ladies, las personas que participan deben aceptar
 
 * [R-Ladies Buenos Aires](https://www.meetup.com/es-ES/rladies-buenos-aires/events/271926360)
 * [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/271927045/)
+* [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/events/271932849/)
+
