@@ -23,6 +23,7 @@ As every R-Ladies event, all participants are required to agree to the [Code of 
 * [R-Ladies Buenos Aires](https://www.meetup.com/es-ES/rladies-buenos-aires/events/271926360)
 * [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/271927045/)
 * [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/events/271932849/)
+* [R-Ladies Resistencia-Corrientes](https://www.meetup.com/es/rladies-resistencia-corrientes/events/271931765/)
 
 More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorials/
 
@@ -50,4 +51,5 @@ Como en todos los eventos de R-Ladies, las personas que participan deben aceptar
 * [R-Ladies Buenos Aires](https://www.meetup.com/es-ES/rladies-buenos-aires/events/271926360)
 * [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/271927045/)
 * [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/events/271932849/)
+* [R-Ladies Resistencia-Corrientes](https://www.meetup.com/es/rladies-resistencia-corrientes/events/271931765/)
 
