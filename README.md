@@ -1,7 +1,7 @@
 ![](https://github.com/RLadiesEnArgentina/user2020tutorial/blob/master/2.png)
 # useR! 2020 online tutorial: Predictive modeling with text using tidy data principles.
 
-This [useR! 2020](https://user2020.r-project.org/) online tutorial is coming **Friday, July 24, 2020 at	14:00 UTC** The R-Ladies chapters from Argentina are happy to announce that _Emil Hvitfeldt_ and _Julia Silge_ will be joining us to run their tutorial **"Predictive modeling with text using tidy data principles"**.
+This [useR! 2020](https://user2020.r-project.org/) online tutorial is coming **Friday, July 24, 2020 at	20:00 UTC** The R-Ladies chapters from Argentina are happy to announce that _Emil Hvitfeldt_ and _Julia Silge_ will be joining us to run their tutorial **"Predictive modeling with text using tidy data principles"**.
 
 ## Tutorial
 
@@ -30,7 +30,7 @@ More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorial
 
 # Tutorial online de useR! 2020: Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy).
 
-Este tutorial de [useR! 2020](https://user2020.r-project.org/) se realizará de forma virtual el **Viernes 24 de julio de 2020 a las 14:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotres para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
+Este tutorial de [useR! 2020](https://user2020.r-project.org/) se realizará de forma virtual el **Viernes 24 de julio de 2020 a las 20:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotres para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
 
 ## Tutorial
 
