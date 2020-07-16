@@ -26,6 +26,7 @@ As every R-Ladies event, all participants are required to agree to the [Code of 
 * [R-Ladies Resistencia-Corrientes](https://www.meetup.com/es/rladies-resistencia-corrientes/events/271931765/)
 * [R-Ladies Mendoza](https://www.meetup.com/es/rladies-mendoza/events/271943468)
 * [R-Ladies Santa Fe](https://www.meetup.com/es-ES/rladies-santa-fe/events/271948618)
+* [R-Ladies General Pico](https://www.meetup.com/es/rladies-general-pico/events/271960751)
 
 More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorials/
 
@@ -56,6 +57,7 @@ Como en todos los eventos de R-Ladies, las personas que participan deben aceptar
 * [R-Ladies Resistencia-Corrientes](https://www.meetup.com/es/rladies-resistencia-corrientes/events/271931765/)
 * [R-Ladies Mendoza](https://www.meetup.com/es/rladies-mendoza/events/271943468)
 * [R-Ladies Santa Fe](https://www.meetup.com/es-ES/rladies-santa-fe/events/271948618)
+* [R-Ladies General Pico](https://www.meetup.com/es/rladies-general-pico/events/271960751)
 
 
 
