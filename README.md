@@ -28,6 +28,8 @@ As every R-Ladies event, all participants are required to agree to the [Code of 
 * [R-Ladies Santa Fe](https://www.meetup.com/es-ES/rladies-santa-fe/events/271948618)
 * [R-Ladies General Pico](https://www.meetup.com/es/rladies-general-pico/events/271960751)
 * [R-Ladies Córdoba](https://www.meetup.com/es/rladies-cordoba/events/271984839/)
+
+
 More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorials/
 
 # Tutorial online de useR! 2020: Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy).
