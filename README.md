@@ -1,7 +1,7 @@
-![](https://github.com/RLadiesEnArgentina/user2020tutorial/blob/master/2.png)
+![](https://github.com/RLadiesEnArgentina/user2020tutorial/blob/master/Predictive%20modeling%20with%20text%20using%20tidy%20data%20principles.jpg)
 # useR! 2020 online tutorial: Predictive modeling with text using tidy data principles.
 
-This [useR! 2020](https://user2020.r-project.org/) online tutorial is coming **Friday, July 24, 2020 at	14:00 UTC** The R-Ladies chapters from Argentina are happy to announce that _Emil Hvitfeldt_ and _Julia Silge_ will be joining us to run their tutorial **"Predictive modeling with text using tidy data principles"**.
+This [useR! 2020](https://user2020.r-project.org/) online tutorial is coming **Friday, July 24, 2020 at	20:00 UTC** The R-Ladies chapters from Argentina are happy to announce that _Emil Hvitfeldt_ and _Julia Silge_ will be joining us to run their tutorial **"Predictive modeling with text using tidy data principles"**.
 
 ## Tutorial
 
@@ -24,12 +24,17 @@ As every R-Ladies event, all participants are required to agree to the [Code of 
 * [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/271927045/)
 * [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/events/271932849/)
 * [R-Ladies Resistencia-Corrientes](https://www.meetup.com/es/rladies-resistencia-corrientes/events/271931765/)
+* [R-Ladies Mendoza](https://www.meetup.com/es/rladies-mendoza/events/271943468)
+* [R-Ladies Santa Fe](https://www.meetup.com/es-ES/rladies-santa-fe/events/271948618)
+* [R-Ladies General Pico](https://www.meetup.com/es/rladies-general-pico/events/271960751)
+* [R-Ladies Córdoba](https://www.meetup.com/es/rladies-cordoba/events/271984839/)
+
 
 More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorials/
 
 # Tutorial online de useR! 2020: Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy).
 
-Este tutorial de [useR! 2020](https://user2020.r-project.org/) se realizará de forma virtual el **Viernes 24 de julio de 2020 a las 14:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotres para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
+Este tutorial de [useR! 2020](https://user2020.r-project.org/) se realizará de forma virtual el **Viernes 24 de julio de 2020 a las 20:00 UTC (17:00 UTC-3, horario de Buenos Aires)**. Los capítulos de R-Ladies de Argentina estamos felices de anunciar que _Emil Hvitfeldt_ y _Julia Silge_ se unirán a nosotres para traernos su tutorial **"Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)"**.
 
 ## Tutorial
 
@@ -52,4 +57,9 @@ Como en todos los eventos de R-Ladies, las personas que participan deben aceptar
 * [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/271927045/)
 * [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/events/271932849/)
 * [R-Ladies Resistencia-Corrientes](https://www.meetup.com/es/rladies-resistencia-corrientes/events/271931765/)
+* [R-Ladies Mendoza](https://www.meetup.com/es/rladies-mendoza/events/271943468)
+* [R-Ladies Santa Fe](https://www.meetup.com/es-ES/rladies-santa-fe/events/271948618)
+* [R-Ladies General Pico](https://www.meetup.com/es/rladies-general-pico/events/271960751)
+* [R-Ladies Córdoba](https://www.meetup.com/es/rladies-cordoba/events/271984839/)
+
 
